@@ -12,4 +12,4 @@
 ## Using Nested Routes:
 - Can't edit and destroy Tokimons in the Tokimon index page
 - Write a matching route on the top of a nested route which overwrites the /tokimons/, so there are two URL routes to tokimons#index
-- Other than this all routes for tokimons is nested routes and I pass two id(id and trainer_id) in url to call the routes
+- Other than this, all routes for tokimons are nested routes and I can pass two id(id and trainer_id) into the url to call the routes
